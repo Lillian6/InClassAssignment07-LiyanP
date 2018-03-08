@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClassAssignment07-LiyanP</string>
+    <string name="student_list">Student List</string>
+    <string name="add_student">Add Another Student</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="pass">Pass</string>
+</resources>
